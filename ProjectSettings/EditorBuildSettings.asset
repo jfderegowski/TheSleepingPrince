@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Janek/Menu.unity
+    guid: fa620bb8d6dfff14494a6d8b43a733fa
+  - enabled: 1
+    path: Assets/Kuba/Intro.unity
+    guid: a8cb8ef722569eb4d9a593992f29b5d0
+  - enabled: 1
+    path: Assets/Kuba/lvl0.unity
+    guid: 44324abffbc16114782fdfddeec2e33a
+  - enabled: 1
+    path: Assets/Kuba/lvl1.unity
+    guid: 3cd9c5c5e80930546afdc796d18d3c5a
+  - enabled: 1
+    path: Assets/Kuba/lvl2.unity
+    guid: fbdcdde70b34c6d49bfa47a980b9863a
+  - enabled: 1
+    path: Assets/Kuba/lvl1invert.unity
+    guid: 20a5d06efaec726479fd0d7fe96b575e
+  - enabled: 1
+    path: Assets/Kuba/lvl3.unity
+    guid: c01ec60f36880504593d406875111376
+  - enabled: 1
+    path: Assets/Kuba/lvl4.unity
+    guid: 9187ca31b1b078546b48cbe0b9e876b3
+  - enabled: 1
+    path: Assets/Kuba/lvl5.unity
+    guid: f585d5285a59453478c68baf780a4a7c
+  - enabled: 1
+    path: Assets/Kuba/Outro.unity
+    guid: a9ae91a6469051b419fc2096e8f7746c
+  m_configObjects: {}
